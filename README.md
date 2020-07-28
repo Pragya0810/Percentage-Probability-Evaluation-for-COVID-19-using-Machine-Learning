@@ -3,6 +3,8 @@
 *For more details go through my Research Paper on this topic published in  Scopus indexed International Journal of Xidian University.
 Visit [The Paper Link](http://xadzkjdx.cn/Volume-14-Issue-7-July-20/) ( Paper No.175 )*
 
+**Please give this repository a star if you like it.**
+
 In this study, we have predicted the percent probability of a person for being infected with coronavirus with the help of some basic clinical features of their body by applying various machine learning algorithms. This prediction can help us to prioritize our testing to the most prone cases of the corona. We can further test less prone cases by dividing them into small groups and mixing their blood samples together. Thus if a sample tests negative then the whole group of people tests negative and we need not perform any further testing. Thus our model for probability prediction is highly helpful in targeting a better audience for testing as well as reducing the number of possible tests.
 
 ### Introduction
@@ -112,6 +114,7 @@ Hence we got the cases which are most and least critical. Now we can perform the
 
 Different classification models gave different accuracy for the same dataset. We achieved an accuracy of 90.9% from Naive Bayes and SVM classifiers while 90.8% and 91.73% from Logistic Regression and Random Forest classifiers respectively which can further be improvised when trained on a bigger dataset and with a greater number of clinical features in the dataset.
 
+*Click the below icon to visit my GitHub & LinkedIn profile.*
 
 [1]: https://www.github.com/Pragya0810
 [2]: https://www.linkedin.com/in/pragya-chhajer-5a5aa6159/
